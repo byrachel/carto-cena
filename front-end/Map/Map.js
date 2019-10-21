@@ -36,6 +36,6 @@ const mapStyles = {
 
 
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyAlLTsz9Awv2pHhnFXVaRH3nSahC5Aj3Yo'
+  apiKey: ''
 })(MapContainer);
 
